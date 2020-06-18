@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Today's NASA photo of the day](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia23900.jpg)
