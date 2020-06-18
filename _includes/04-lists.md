@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. we're learning lists
+  1. this is indented 
+* these are made by stars
+  * if you forget to add a space with the asterisk it's italicized
